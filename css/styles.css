@@ -1,0 +1,69 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 2rem;
+  margin-left: 1.5rem;
+}
+
+ul {
+  font-size: 1.3rem;
+  margin-right: 1.5rem;
+}
+
+.nav-list {
+  display: flex;
+  gap: 1rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid black;
+  padding: 2rem 1rem;
+  align-items: center;
+  margin: 1.5rem;
+}
+
+label {
+  font-size: 1.8rem;
+  margin: 1.2rem;
+}
+
+input {
+  font-size: 1.5rem;
+}
+
+form {
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  padding: 2rem 1rem;
+}
+
+button {
+  font-size: 1.5rem;
+  font-weight: 500;
+  padding: 0.8rem 1.2rem;
+  border-radius: 8px;
+  background-color: blue;
+  color: white;
+  border: none;
+}
+
