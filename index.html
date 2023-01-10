@@ -13,20 +13,20 @@
       <p class="logo">Awesome Books</p>
       <nav>
         <ul class="nav-list">
-          <li><a href="">List</a></li>
-          <li><a href="">Add New</a></li>
+          <li><a href="#">List</a></li>
+          <li><a href="#">Add New</a></li>
           <li><a href="">Contact</a></li>
         </ul>
       </nav>
     </header>
-    <section id="no-book" class="header"></section>
-    <form action="">
+    <section id="book-display" class="header book-display"></section>
+    <form id="form" action="">
       <h1>Add A new Book</h1>
       <label for="title" >Book Title 
-      <input type="text" id="title" placeholder="Title" /></label>
+      <input type="text" id="book-title" placeholder="Title" required /></label>
       <label for="author" >Author Name 
-      <input type="text" id="author" placeholder="Author Name" /></label>
-      <button id="add" type="submit">Add Book</button>
+      <input type="text" id="author-name" placeholder="Author Name" required /></label>
+      <button id="add" type="submit" >Add Book</button>
     </form>
     <script src="script.js"></script>
   </body>

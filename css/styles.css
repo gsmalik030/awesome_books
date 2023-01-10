@@ -7,7 +7,7 @@ html {
   padding: 0;
 }
 
-li {
+ul {
   list-style: none;
 }
 
@@ -65,5 +65,18 @@ button {
   background-color: blue;
   color: white;
   border: none;
+}
+
+.book-list{
+  display: flex;
+  width: 90vw;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.book-ul{
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
 }
 
