@@ -9,6 +9,8 @@ html {
 
 ul {
   list-style: none;
+  font-size: 1.3rem;
+  margin-right: 1.5rem;
 }
 
 a {
@@ -19,11 +21,6 @@ a {
   font-weight: bold;
   font-size: 2rem;
   margin-left: 1.5rem;
-}
-
-ul {
-  font-size: 1.3rem;
-  margin-right: 1.5rem;
 }
 
 .nav-list {
@@ -67,16 +64,15 @@ button {
   border: none;
 }
 
-.book-list{
+.book-list {
   display: flex;
   width: 90vw;
   justify-content: space-between;
   align-items: center;
 }
 
-.book-ul{
+.book-ul {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
 }
-
