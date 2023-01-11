@@ -4,30 +4,33 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="css/normalize.css" />
-    <link rel="stylesheet" href="css/styles.css" />
-    <title>The Webster</title>
+    <title>Awesome Books</title>
+    <link rel="stylesheet" href="./css/styles.css" />
   </head>
   <body>
-    <header class="header">
-      <p class="logo">Awesome Books</p>
-      <nav>
-        <ul class="nav-list">
-          <li><a href="#">List</a></li>
-          <li><a href="#">Add New</a></li>
-          <li><a href="">Contact</a></li>
-        </ul>
-      </nav>
-    </header>
-    <section id="book-display" class="header book-display"></section>
-    <form id="form" action="">
-      <h1>Add A new Book</h1>
-      <label for="title" >Book Title 
-      <input type="text" id="book-title" placeholder="Title" required /></label>
-      <label for="author" >Author Name 
-      <input type="text" id="author-name" placeholder="Author Name" required /></label>
-      <button id="add" type="submit" >Add Book</button>
-    </form>
+    <div class="content">
+      <h1 class="heading">Awesome Books</h1>
+      <div class="books"></div>
+      <form class="form">
+        <input
+          type="text"
+          id="title"
+          name="title"
+          placeholder="Title"
+          required
+        />
+
+        <input
+          type="text"
+          id="author"
+          name="author"
+          placeholder="Author"
+          required
+        />
+
+        <button class="add-btn" type="button">Add</button>
+      </form>
+    </div>
     <script src="script.js"></script>
   </body>
 </html>
