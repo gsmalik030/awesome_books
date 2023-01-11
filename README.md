@@ -10,21 +10,20 @@ Awesome Books</b></h3>
 
 </div>
 
-  # 🛠 Built With
+# 🛠 Built With
 
 - HTML 5
 - CSS 3
 - Javascript
 
- # Key Features
+# Key Features
 
- > This is Book library website.
- > In this we can add and remove books.
-
+> This is Book library website.
+> In this we can add and remove books.
 
 # 🔭 Future Features
 
- > I will be adding More functions.
+> I will be adding More functions.
 
 ## Learning Objectives
 
@@ -38,7 +37,6 @@ Awesome Books</b></h3>
 
 > This is a website for an online book library.
 
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -48,7 +46,6 @@ Awesome Books</b></h3>
 - **[It's a website according to the design provided]**
 - **[It allows user to add or delete books from library]**
 
-
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
@@ -56,7 +53,6 @@ Awesome Books</b></h3>
 > Add a link to your deployed project.
 
 - [Live Demo Link](https://github.com/gsmalik030/awesome_books)
-
 
 ### Prerequisites
 
@@ -70,8 +66,6 @@ Clone this repository to your desired folder:
 
 **Just clone the project by runing the `git clone git@github.com:gsmalik030/awesome_books.git` command in your command line, and you are done.**
 
-
-
 <!-- AUTHORS -->
 
 👤 **Ghulam Subbhani(Malik)**
@@ -80,7 +74,11 @@ Clone this repository to your desired folder:
 - Twitter: [@twitterhandle](https://twitter.com/gsmalik030)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ghulam-subbhani-4b1281252/)
 
+👤 **Anwaar Salam**
 
+- GitHub: [Anwaar12](https://github.com/Anwaar12)
+- Twitter: [Anwaar154](https://twitter.com/Anwaar154)
+- LinkedIn: [Anwaar12](https://www.linkedin.com/in/anwaar-salam-61a3821b0/)
 
 <!-- CONTRIBUTING -->
 
@@ -100,13 +98,11 @@ If you like this project...
 
 Give a ⭐️ if you like my effort!
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,6 +111,6 @@ Give a ⭐️ if you like my effort!
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-(https://github.com/gsmalik030/awesome_books/blob/main/LICENSE) 
+(https://github.com/gsmalik030/awesome_books/blob/main/LICENSE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
