@@ -10,6 +10,28 @@ Awesome Books</b></h3>
 
 </div>
 
+# 📗 Table of Contents
+
+- [📖 About the Project](#awesom-books)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
 # 🛠 Built With
 
 - HTML 5
@@ -114,3 +136,5 @@ This project is [MIT](./LICENSE) licensed.
 (https://github.com/gsmalik030/awesome_books/blob/main/LICENSE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
