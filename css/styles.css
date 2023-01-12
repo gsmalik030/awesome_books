@@ -17,9 +17,10 @@ li {
 }
 
 .book-selection {
-  width: 100%;
+  width: 95%;
   height: 6vh;
   margin-top: 20px;
+  margin: 20px auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -137,7 +138,7 @@ button#book-add-button {
 }
 
 .footer {
-  width: 99%;
+  width: 95%;
   margin: 20px 0 0 0;
   border: 5px solid #3e3e3e;
   height: 6vh;
