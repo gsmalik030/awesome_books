@@ -7,109 +7,6 @@ body {
   max-width: 100%;
   display: flex;
   flex-direction: column;
-<<<<<<< HEAD
-  justify-content: flex-start;
-  align-items: center;
-  margin: 2%;
-}
-
-.content {
-  width: 80%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.heading {
-  text-align: center;
-  font-size: 35px;
-}
-
-hr {
-  width: 30%;
-  height: 2px;
-  margin-top: 20px;
-  background-color: black;
-}
-
-.books {
-  width: 80%;
-  border: 2px solid black;
-}
-
-.allbooks {
-  width: 98.65%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 0.5rem 0 0.5rem;
-}
-
-.allbooks:nth-of-type(odd) {
-  background-color: #d3d3d3;
-  height: 50px;
-}
-
-.allbooks:nth-of-type(even) {
-  background-color: #fff;
-  height: 50px;
-}
-
-.allbooks p {
-  font-size: 18px;
-  font-weight: 700;
-}
-
-.removeBtn {
-  width: 15%;
-  height: 30px;
-  border: 3px solid black;
-  background-color: white;
-  box-shadow: 3px 2px 0 black;
-}
-
-.form {
-  width: 40%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  gap: 20px;
-  margin-top: 20px;
-  position: relative;
-}
-
-.heading1 {
-  text-align: center;
-  font-size: 35px;
-}
-
-.add-btn {
-  width: 15%;
-  height: 30px;
-  border: 3px solid black;
-  background-color: white;
-  box-shadow: 3px 2px 0 black;
-  position: absolute;
-  bottom: -40px;
-  right: 0;
-}
-
-#title {
-  width: 100%;
-  height: 30px;
-  font-size: 15px;
-  font-weight: 700;
-  border: 3px solid black;
-}
-
-#author {
-  width: 100%;
-  height: 30px;
-  font-size: 15px;
-  font-weight: 700;
-  border: 3px solid black;
-=======
   justify-content: center;
   align-items: center;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -276,7 +173,6 @@ button#book-add-button {
   background-color: #fff;
   border: 3px solid black;
   font-weight: 700;
-  font-size: 15px;
+  font-size: 16px;
   padding: 3px;
->>>>>>> b29c24c2d9b85c4f81001d2132e3368081ea9b08
 }
