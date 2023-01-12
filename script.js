@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /* eslint-disable max-classes-per-file */
 class Book {
   constructor(title, author) {
@@ -62,7 +62,6 @@ form.addEventListener('submit', (evt) => {
   display.addBook();
   form.reset();
 });
-=======
 const storageKey = 'awesomeBooks';
 const currentFormTitle = document.querySelector('#title');
 const currentFormAuthor = document.querySelector('#author');
@@ -174,4 +173,3 @@ window.onload = () => {
   awesomeBookShelf.loadDataFromLocalStorage();
   dateTime.innerHTML = timeNow;
 };
->>>>>>> b29c24c2d9b85c4f81001d2132e3368081ea9b08
