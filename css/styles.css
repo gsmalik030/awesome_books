@@ -1,0 +1,178 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+  list-style-type: none;
+}
+
+.book-selection {
+  width: 95%;
+  height: 6vh;
+  margin: 20px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 5px solid #3e3e3e;
+}
+
+.book-selector {
+  margin: 5px 0 0 5px;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.links-desc {
+  list-style: none;
+  border-right: 2px solid #3e3e3e;
+  margin: 0 5px;
+  padding: 0 5px;
+}
+
+#link-contact {
+  border-style: none;
+}
+
+.links-desc:hover {
+  color: blue;
+  cursor: pointer;
+}
+
+.date {
+  float: right;
+  margin-bottom: 31px;
+}
+
+.book-container {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.book-list {
+  border: 5px solid #807c7c;
+}
+
+.app-name {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.nobulls {
+  list-style: none;
+}
+
+.description {
+  margin-bottom: 10px;
+}
+
+button#book-add-button {
+  margin-top: 10px;
+  height: 2rem;
+  width: 10%;
+  background-color: #fff;
+  border: 3px solid black;
+  font-weight: 700;
+  font-size: 14px;
+  color: #3e3e3e;
+}
+
+.book-remove-button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  height: 1.5rem;
+  width: 5rem;
+  background-color: #fff;
+  border: 2px solid black;
+}
+
+.book-item {
+  padding: 5px 5px;
+  position: relative;
+}
+
+.book-item:nth-child(even) {
+  background-color: #807c7c;
+}
+
+.book-title,
+.book-author {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.form {
+  text-align: center;
+}
+
+.form-title {
+  font-size: 24px;
+}
+
+.contact-title {
+  text-align: center;
+}
+
+.contact p {
+  font-weight: 700;
+}
+
+.contact ul li {
+  font-weight: 700;
+}
+
+.footer {
+  width: 95%;
+  margin: 20px 0 0 0;
+  border: 5px solid #3e3e3e;
+  height: 6vh;
+  position: relative;
+}
+
+.footer-title {
+  margin: 5px;
+  text-transform: capitalize;
+  font-size: 16px;
+}
+
+.contributor {
+  position: absolute;
+  right: 0;
+  top: -10px;
+  display: flex;
+  margin: 0 5px;
+}
+
+.contributors {
+  padding: 0 5px;
+}
+
+.hide {
+  display: none;
+}
+
+#title,
+#author {
+  width: 30%;
+  height: 2rem;
+  background-color: #fff;
+  border: 3px solid black;
+  font-weight: 700;
+  font-size: 16px;
+  padding: 3px;
+}

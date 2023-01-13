@@ -29,7 +29,7 @@ Awesome Books</b></h3>
 # 🛠 Built With
 
 - HTML 5
-- CSS 3
+- CSS
 - Javascript
 
 # Key Features
